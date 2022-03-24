@@ -1,6 +1,7 @@
 # plant_app
 
-A new Flutter project.
+![1](https://user-images.githubusercontent.com/86397791/160010827-df81e0f3-ef2b-41d0-9dbe-898cf9c463da.png)
+
 
 ## Getting Started
 
